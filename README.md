@@ -6,6 +6,7 @@
 * apache-maven-3.3.9
 * tomcat-8.0.32
 * yandex API key [https://tech.yandex.com/translate/]
+* bootstrap 3.3.6 [https://maxcdn.bootstrapcdn.com]
 
 ###How to configure 
 - Open the terminal and shutdown the tomcat server if it is running, by the command ``$CATALINA_HOME/binshutdown.sh``.
